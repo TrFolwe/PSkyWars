@@ -1,0 +1,7 @@
+founded_game: "A suitable game has been found, you are transferring."
+killed_player: "%player killed By %killer"
+won_game: "§a%player §7is won the game"
+floating_killed_player: "§fRight here §c%player was killed by §a%killer"
+join_viewers: "§7Joined as a spectator"
+kill_void_player: "§e%player §7is died"
+player_left_game: "§e%player §7left the game"

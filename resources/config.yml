@@ -1,0 +1,13 @@
+SkyWars:
+  TestGame:
+    WorldName: "Noel" #World name
+    MaxPlayer: 2 # Max player slot
+    SpawnPosition: # Spawn positions
+      - "259:66:247"
+      - "233:66:215"
+    ChestItems:
+      diamond_sword-1: #name-count
+        - "16-2" #Effect, Spell id - level
+      stone-270: []
+defaultLang: "en"
+Languages: ["en","tur"]

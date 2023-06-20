@@ -1,0 +1,7 @@
+founded_game: "Uygun oyun bulundu, Aktarılıyorsunuz."
+killed_player: "§e%player §7Adlı oyuncu §e%killer §7Adlı oyuncu tarafından öldürüldü"
+won_game: "§a%player adlı oyuncu oyunu kazandı"
+floating_killed_player: "§fTam burada §6%player §fAdlı oyuncu §6%killer tarafından öldürüldü :)"
+join_viewers: "§7İzleyici olarak katıldın"
+kill_void_player: "§e%player §7düşerek öldü"
+player_left_game: "§e%player §7Oyundan ayrıldı"

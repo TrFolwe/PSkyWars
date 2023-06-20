@@ -1,0 +1,7 @@
+name: SkyWars
+api: 5.0.0
+main: TrFolwe\SkyWars
+version: 1.0
+author: TrFolwe
+
+description: TrFolwe by PocketMine MiniGame SkyWars Plugin
